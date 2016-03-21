@@ -1,4 +1,4 @@
 # Spell-Checker
 Spell checker Implementation in Python
 
-A simple spelling corrector implemented in python based on the noise channel model. 
+A simple spelling corrector implemented in python based on the noisy channel model. 
